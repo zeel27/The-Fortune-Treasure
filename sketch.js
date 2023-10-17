@@ -29,7 +29,6 @@ function preload() {
     object4img = loadImage("blue star.png")
     object5img = loadImage("green star.png")
     playerimg = loadImage("player.png")
-    treasureanimation=loadAnimation("treasureimg1.png","treasureimg2.png","treasureimg3.png","treasureimg4.png","treasureimg5.png","treasureimg6.png")
 
     silverimg=loadAnimation("assets/Silver/s1.png","assets/Silver/s2.png","assets/Silver/s3.png",
     "assets/Silver/s4.png","assets/Silver/s5.png","assets/Silver/s6.png")
